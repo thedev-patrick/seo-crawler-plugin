@@ -3,7 +3,7 @@
  * Plugin Template
  *
  * @package     SEO Crawler
- * @author      Usman Asif
+ * @author      Patrick Oguamanam
  * @copyright   UA rights reserved
  * @license     GPL-2.0-or-later
  *
@@ -11,7 +11,7 @@
  * Plugin Name: SEO Crawler
  * Version:     1.0
  * Description: A plugin to fetch hyperlinks from the homepage to list them and improve SEO.
- * Author:      Usman Asif
+ * Author:      Patrick Oguamanam
  */
 
 namespace ROCKET_WP_CRAWLER;

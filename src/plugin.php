@@ -4,7 +4,7 @@
  *
  * @package     SEO Crawler
  * @since       October, 2023
- * @author      Usman Asif
+ * @author      Patrick Oguamanam
  * @license     GPL-2.0-or-later
  */
 

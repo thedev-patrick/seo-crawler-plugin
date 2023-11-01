@@ -1,14 +1,12 @@
 <?php return array(
     'root' => array(
-        'name' => 'mathieulamiot/wp-crawler-wpplugin',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => 'b03613480558bf7f870d3d04767ad8103a28a981',
+        'name' => 'patrickoguamanam/wp-crawler-wpplugin',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '269859fa7f0c790bcb602f1096f292db003fd1ad',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
-        'aliases' => array(
-            0 => '1.0.x-dev',
-        ),
+        'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
@@ -88,17 +86,6 @@
                 0 => '*',
             ),
         ),
-        'mathieulamiot/wp-crawler-wpplugin' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => 'b03613480558bf7f870d3d04767ad8103a28a981',
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(
-                0 => '1.0.x-dev',
-            ),
-            'dev_requirement' => false,
-        ),
         'mikey179/vfsstream' => array(
             'pretty_version' => 'v1.x-dev',
             'version' => '1.9999999.9999999.9999999-dev',
@@ -125,6 +112,15 @@
             'install_path' => __DIR__ . '/../myclabs/deep-copy',
             'aliases' => array(),
             'dev_requirement' => true,
+        ),
+        'patrickoguamanam/wp-crawler-wpplugin' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '269859fa7f0c790bcb602f1096f292db003fd1ad',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'phar-io/manifest' => array(
             'pretty_version' => 'dev-master',
